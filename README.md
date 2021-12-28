@@ -1,4 +1,4 @@
-# Various_notebook
+# Notebooks
  Various basic operation in notebook format so they can be accessed easily
 - [Hyperparameters optimization - gridsearch & bayesian using hyperopt and sklearn](./notebooks/hyperparameter_optimization.ipynb)
 - [XGB multiple output](./notebooks/multiple_output_xgboost.ipynb)
@@ -7,3 +7,5 @@
 - Random color generation with fixed size
 - DBSCAN / kmean clustering
 - etc...
+
+# Scripts

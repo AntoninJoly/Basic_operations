@@ -5,7 +5,7 @@
 - [Video creation](./notebooks/random_noise_video.ipynb)
 - [Random color generation](./notebooks/random_color.ipynb)
 - [DBSCAN / kmean clustering (elbow/silhouette)](./notebooks/clustering.ipynb)
-- [Optimal skew processing]
+- [Optimal skew processing](./notebooks/unskew_data_distribution.ipynb)
 
 # Scripts -  Various basic operations in script format
 - tdb

@@ -14,10 +14,10 @@
 
 |   | Source                                                                                                                 | Note |
 |---|------------------------------------------------------------------------------------------------------------------------|------|
-|   | [test](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)              |      |
-|   | [test](https://www.reddit.com/r/learnmachinelearning/comments/rqukh3/what_are_graph_neural_networks/)                  |      |
-|   | [test](https://www.reddit.com/r/MachineLearning/comments/rq6uih/d_other_ai_methodsalgorithms_except_deep_neural/)      |      |
-|   | [test](https://www.reddit.com/r/MachineLearning/comments/rimqij/d_how_to_embed_powerbi_report_in_jupyternotebook/)     |      |
+|   | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)              |      |
+|   | [Graph neural network](https://www.reddit.com/r/learnmachinelearning/comments/rqukh3/what_are_graph_neural_networks/)                  |      |
+|   | [DL. What else?](https://www.reddit.com/r/MachineLearning/comments/rq6uih/d_other_ai_methodsalgorithms_except_deep_neural/)      |      |
+|   | [PowerBI in jupyter](https://www.reddit.com/r/MachineLearning/comments/rimqij/d_how_to_embed_powerbi_report_in_jupyternotebook/)     |      |
 |   | [test](https://www.reddit.com/r/learnmachinelearning/comments/rh25sh/ive_made_a_search_engine_with_5000_quality_data/) |      |
 |   | [test](https://www.reddit.com/r/learnmachinelearning/comments/r6jee3/how_to_load_856_gb_of_xml_data_into_a_dataframe/) |      |
 |   | [test](https://www.reddit.com/r/MachineLearning/comments/r0y56t/p_python_library_to_optimize_hugging_face/)            |      |

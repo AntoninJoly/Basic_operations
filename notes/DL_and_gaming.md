@@ -24,7 +24,7 @@ Youtube video share about how to use AI in video games:
 - DL play an important role for 3D games
 - Graphics / gameplay / storytelling could be achieved by DL.
 - Realistic image generation from sketch using GAN (change wetaher condition in an image e.g. snow)
-- Photorealism to transform game engine output (GTA with cityscape dataset gives very realistic results)
+- Photorealism to transform game engine output (GTA with cityscape dataset gives very realistic results)  
     &rarr; Thoughts: Lower game engine spec could be balanced with photorealistic model
 - Game edition might be co-athoured by AI engineers and game developpers
 - AI dungeon (text based fantasy world) makes it able to interact with command line to generate a story.

@@ -14,18 +14,18 @@
 
 ### Technical
 
-|    Date    | Source                                                                                                                                                     |             Detailed note              | Notes / conlusion |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------------|
-| 2022/01/05 | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)                                         |  [here](./notes/DL_and_gaming.md)     |                   |
-| 2021/12/29 | [Graph neural network](https://www.reddit.com/r/learnmachinelearning/comments/rqukh3/what_are_graph_neural_networks/)                                      |                                        |                   |
-| 2021/12/28 | [New AI approaches](https://www.reddit.com/r/MachineLearning/comments/rq6uih/d_other_ai_methodsalgorithms_except_deep_neural/)                             |                                        |                   |
-| 2021/12/18 | [PowerBI in jupyter](https://www.reddit.com/r/MachineLearning/comments/rimqij/d_how_to_embed_powerbi_report_in_jupyternotebook/)                           |                                        |                   |
-| 2021/12/16 | [Data science repository search engine](https://www.reddit.com/r/learnmachinelearning/comments/rh25sh/ive_made_a_search_engine_with_5000_quality_data/)    |                                        |                   |
-| 2020/12/02 | [Large XML to dataframe](https://www.reddit.com/r/learnmachinelearning/comments/r6jee3/how_to_load_856_gb_of_xml_data_into_a_dataframe/)                   |                                        |                   |
-| 2020/01/01 | [Huggingface performance optimization](https://www.reddit.com/r/MachineLearning/comments/r0y56t/p_python_library_to_optimize_hugging_face/)                |                      |                   |
-| 2020/01/01 | [Keypoints modelling](https://www.reddit.com/r/MachineLearning/comments/qymvys/r_rethinking_keypoint_representations_modeling/)                            |                      |                   |
-| 2020/01/01 | [Bias in data](https://www.reddit.com/r/MachineLearning/comments/qx0enm/d_all_bias_in_ml_comes_from_biased_data/)                                          |                      |                   |
-| 2020/01/01 | [Bert for image](https://www.reddit.com/r/MachineLearning/comments/qw2c3p/r_is_bert_the_future_of_image_pretraining)/                                      |                      |                   |
+|    Date    | Source                                                                                                                                                     |               Detailed note              | Notes / conlusion |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------|
+| 2022/01/05 | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)                                         |[here](./notes/DL_and_gaming.md)          |                   |
+| 2021/12/29 | [Graph neural network](https://www.reddit.com/r/learnmachinelearning/comments/rqukh3/what_are_graph_neural_networks/)                                      |[here](./notes/graph_neural_network.md)   |                   |
+| 2021/12/28 | [New AI approaches](https://www.reddit.com/r/MachineLearning/comments/rq6uih/d_other_ai_methodsalgorithms_except_deep_neural/)                             |[here](./notes/new_algorithms.md)         |                   |
+| 2021/12/18 | [PowerBI in jupyter](https://www.reddit.com/r/MachineLearning/comments/rimqij/d_how_to_embed_powerbi_report_in_jupyternotebook/)                           |[here](./notes/jupyter_powerbi.md)        |                   |
+| 2021/12/16 | [Data science repository search engine](https://www.reddit.com/r/learnmachinelearning/comments/rh25sh/ive_made_a_search_engine_with_5000_quality_data/)    |[here](./notes/repo_search_engine.md)     |                   |
+| 2020/12/02 | [Large XML to dataframe](https://www.reddit.com/r/learnmachinelearning/comments/r6jee3/how_to_load_856_gb_of_xml_data_into_a_dataframe/)                   |[here](./notes/large_xml_df.md)           |                   |
+| 2020/01/01 | [Huggingface performance optimization](https://www.reddit.com/r/MachineLearning/comments/r0y56t/p_python_library_to_optimize_hugging_face/)                |[here](./notes/huggingfac_performances.md)|                   |
+| 2020/01/01 | [Keypoints modelling](https://www.reddit.com/r/MachineLearning/comments/qymvys/r_rethinking_keypoint_representations_modeling/)                            |                                          |                   |
+| 2020/01/01 | [Bias in data](https://www.reddit.com/r/MachineLearning/comments/qx0enm/d_all_bias_in_ml_comes_from_biased_data/)                                          |                                          |                   |
+| 2020/01/01 | [Bert for image](https://www.reddit.com/r/MachineLearning/comments/qw2c3p/r_is_bert_the_future_of_image_pretraining)/                                      |                                          |                   |
 | 2020/01/01 | [French NLP dataset - Cedille](https://www.reddit.com/r/MachineLearning/comments/qqzuh0/p_cedille_the_largest_french_language_model_6b/)       |      |                   |
 | 2020/01/01 | [Neural tangent kernel eigenvalues](https://www.reddit.com/r/MachineLearning/comments/qfy76l/r_neural_tangent_kernel_eigenvalues_accurately/)       |      |                   |
 | 2020/01/01 | [Visual self attention](https://www.reddit.com/r/MachineLearning/comments/qeyhwb/r_efficient_visual_selfattention_link_to_a_free/)      |      |                   |

@@ -1,12 +1,10 @@
-# Info
-Source: reddit
+# Info 📌
 
-Date: 2022/01/05
+# Post header 📝
 
-# Post header
+# Comments section 👂🏻
 
-# Comments section
+# Notes ✍🏻
+None
 
-# Notes
-
-# Though:
+# Thoughts 💭

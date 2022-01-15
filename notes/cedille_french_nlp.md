@@ -1,9 +1,7 @@
-# Info
-Source: reddit
+# Info 📌
+https://www.reddit.com/r/MachineLearning/comments/qqzuh0/p_cedille_the_largest_french_language_model_6b/
 
-Date: 2021/11/21
-
-# Post header
+# Post header 📝
 Cedille, the largest French language model (6b), released in open source  
 We have spent the last 3 months of our lives, teraFLOPs of compute and gone through 300gb of text to bring you Cedille:
 
@@ -13,8 +11,7 @@ The entirety of French spirit captured in measly 6B parameters! 🇫🇷🥖
 
 More seriously, we are super excited to share Cedille, the so far largest French language model: https://en.cedille.ai
 
-# Comments section
-
+# Comments section 👂🏻
 >We mostly stuck to the finetuning recommendations provided by GPT-J: https://github.com/kingoflolz/mesh-transformer-jax/blob/master/howto_finetune.md
 >We trained on 300gb of uncompressed text (= 78B tokens), which took 12.5 days for the final model on a v3-128 TPU.
 >The Google TRC program provided us with the TPU compute. There's no public price for renting v3-128 TPU.
@@ -27,8 +24,8 @@ More seriously, we are super excited to share Cedille, the so far largest French
 
 >We ran into pretty high costs of running benchmarks for GPT-3 (~$1000).
 
-# Notes
+# Notes ✍🏻
 None
 
-# Though:
-Very useful for fench based NLP projects.
+# Thoughts 💭
+- Very useful for French based NLP projects.

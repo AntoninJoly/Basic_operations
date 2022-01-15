@@ -1,11 +1,11 @@
-# Info
-Source: reddit
-Date: 2021/12/28
+# Info 📌
+https://www.reddit.com/r/MachineLearning/comments/rq6uih/d_other_ai_methodsalgorithms_except_deep_neural/
 
-# Post header
+# Post header 📝
+Other AI methods/algorithms except deep neural network that are promising?  
  List of interesting new methods that could replace/supplement traditionnal deep learning.
 
-# Comments section
+# Comments section 👂🏻
 >An opinion on the Free Energy Principle
 >It takes a really high effort to learn or implement, and the results so far, are far from practical.
 
@@ -13,10 +13,10 @@ Date: 2021/12/28
 
 >In the next decade there will be integration of subsymbolic AI with symbolic AI as each exceed the other in performance under opposing conditions. There are many things to improve upon the Parallel Distributed Processing (PDP) approach,aka. Neural Networks.
 
-# Notes
-Fractal AI  
+# Notes ✍🏻
+Fractal AI might be a good approach to investigate.  
 https://github.com/Guillemdb/FractalAI
 
-# Thoughs:
-- A lot of theoretical work but very few implementation.
+# Thoughts 💭
+- A lot of theoretical work but very few implementations.
 - Need to wait for implementation from researchers / specialists in the different domains.

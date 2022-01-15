@@ -1,15 +1,13 @@
-# Info
-Source: reddit
-Date: 2021/12/02
+# Info 📌
+https://www.reddit.com/r/learnmachinelearning/comments/r6jee3/how_to_load_856_gb_of_xml_data_into_a_dataframe/
 
-# Post header
+# Post header 📝
 How to load 85.6 GB of XML data into a dataframe  
 >pd.read_xml() -> System crashes - High memory usage
 >ElementTree -> System crashes - High memory usage
 >vaex [OpenSource library] -> Does not handles XML data well. throws an error.
 
-# Comments section
-
+# Comments section 👂🏻
 >I've had good results using the HDF5 format in the past with the associated python library. It allows you to load huge amounts of data and process it like a numpy array. It involved preprocessing the data and then feeding it into a new hdf5 data structure that u save to disk. You can then load that in python and use it like a numpy array. https://docs.h5py.org/en/stable/
 
 >We do similar by converting the XML to JSON early in the data pipeline. About 31 TB total; about 700 million individual XML files that range from tiny to quite a few MB.
@@ -18,9 +16,9 @@ How to load 85.6 GB of XML data into a dataframe
 
 >Yes, daskdf can help with this. If you have GPU, I think cudf will help too.
 
-# Notes
-wikipedia data handling.  
+# Notes ✍🏻
+Wikipedia dataset handling.  
 https://github.com/ramayer/wikipedia_in_spark/blob/main/notebooks/0_spark_preprocessing_of_wikipedia.ipynb
 
-# Though:
+# Thoughts 💭
 - Dask and HDF5 seems the solution for handling large data.

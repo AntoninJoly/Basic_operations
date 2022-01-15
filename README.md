@@ -12,22 +12,41 @@
 
 # Notes about AI in general
 
-### Technical
-
+### Various
+## Tools
 |    Date    | Source                                                                                                                                                     |               Detailed note              | Notes / conlusion |
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------|
 | 2022/01/05 | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)                                         |[here](./notes/DL_and_gaming.md)          |                   |
 | 2021/12/29 | [Graph neural network](https://www.reddit.com/r/learnmachinelearning/comments/rqukh3/what_are_graph_neural_networks/)                                      |[here](./notes/graph_neural_network.md)   |                   |
 | 2021/12/28 | [New AI approaches](https://www.reddit.com/r/MachineLearning/comments/rq6uih/d_other_ai_methodsalgorithms_except_deep_neural/)                             |[here](./notes/new_algorithms.md)         |                   |
 | 2021/12/18 | [PowerBI in jupyter](https://www.reddit.com/r/MachineLearning/comments/rimqij/d_how_to_embed_powerbi_report_in_jupyternotebook/)                           |[here](./notes/jupyter_powerbi.md)        |                   |
-| 2021/12/16 | [Data science repository search engine](https://www.reddit.com/r/learnmachinelearning/comments/rh25sh/ive_made_a_search_engine_with_5000_quality_data/)    |[here](./notes/repo_search_engine.md)     |                   |
-| 2020/12/02 | [Large XML to dataframe](https://www.reddit.com/r/learnmachinelearning/comments/r6jee3/how_to_load_856_gb_of_xml_data_into_a_dataframe/)                   |[here](./notes/large_xml_df.md)           |                   |
+| 2021/12/16 | [Search engine for repositories](https://www.reddit.com/r/learnmachinelearning/comments/rh25sh/ive_made_a_search_engine_with_5000_quality_data/)           |[here](./notes/repo_search_engine.md)     |                   |
 | 2020/01/01 | [Huggingface performance optimization](https://www.reddit.com/r/MachineLearning/comments/r0y56t/p_python_library_to_optimize_hugging_face/)                |[here](./notes/huggingfac_performances.md)|                   |
 | 2020/01/01 | [Keypoints modelling](https://www.reddit.com/r/MachineLearning/comments/qymvys/r_rethinking_keypoint_representations_modeling/)                            |                                          |                   |
 | 2020/01/01 | [Bias in data](https://www.reddit.com/r/MachineLearning/comments/qx0enm/d_all_bias_in_ml_comes_from_biased_data/)                                          |                                          |                   |
 | 2020/01/01 | [Bert for image](https://www.reddit.com/r/MachineLearning/comments/qw2c3p/r_is_bert_the_future_of_image_pretraining)/                                      |                                          |                   |
-| 2020/01/01 | [French NLP dataset - Cedille](https://www.reddit.com/r/MachineLearning/comments/qqzuh0/p_cedille_the_largest_french_language_model_6b/)       |      |                   |
+
+## Data
+|    Date    | Source                                                                                                                                                     |               Detailed note              | Notes / conlusion |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------|
+| 2021/12/02 | [Large XML to dataframe](https://www.reddit.com/r/learnmachinelearning/comments/r6jee3/how_to_load_856_gb_of_xml_data_into_a_dataframe/)                   |[here](./notes/large_xml_df.md)           |                   |
+| 2020/01/01 | [French NLP dataset - Cedille](https://www.reddit.com/r/MachineLearning/comments/qqzuh0/p_cedille_the_largest_french_language_model_6b/)                   |                                          |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/nsq3ai/p_h5records_store_large_datasets_in_one_single/)                                           |                                          |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)                                                  |                                          |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gdbz0r/p_400_nlp_datasets_found_here/)                                                            |                                          |                   |
+
+## Theoretical
+|    Date    | Source                                                                                                                                                     |               Detailed note              | Notes / conlusion |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------|
 | 2020/01/01 | [Neural tangent kernel eigenvalues](https://www.reddit.com/r/MachineLearning/comments/qfy76l/r_neural_tangent_kernel_eigenvalues_accurately/)       |      |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/ee5fab/mixnmatch_multifactor_disentanglement_and/)            |      |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/e4g50h/r_filter_response_normalization_layer_eliminating/)    |      |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eh80jp/d_gelu_better_than_relu/)                              |      |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/el9cq9/r_adversarial_lipschitz_regularization/)               |      |                   |
+
+## To be investigated
+|    Date    | Source                                                                                                                                                     |               Detailed note              | Notes / conlusion |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------|
 | 2020/01/01 | [Visual self attention](https://www.reddit.com/r/MachineLearning/comments/qeyhwb/r_efficient_visual_selfattention_link_to_a_free/)      |      |                   |
 | 2020/01/01 | [Extract ...](https://www.reddit.com/r/MachineLearning/comments/q8qfs2/discussion_what_is_the_best_way_to_extract/)           |      |                   |
 | 2020/01/01 | [Limits of](https://www.reddit.com/r/MachineLearning/comments/q81eax/r_google_researchers_explore_the_limits_of/)           |      |                   |
@@ -47,7 +66,6 @@
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/onyofp/d_what_is_the_method_to_deal_with_sparse_high/)        |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/o5nmoz/r_regularization_is_all_you_need_simple_neural/)       |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/nt8hlp/p_towards_realtime_and_lightweight_line_segment/)      |      |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/nsq3ai/p_h5records_store_large_datasets_in_one_single/)       |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/mx1t3v/r_fiery_future_instance_prediction_in_birdseye/)       |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/mtev6w/r_putting_visual_recognition_in_context_link_to/)      |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/mq3led/d_how_is_tesla_autopilot_trained/)                     |      |                   |
@@ -77,7 +95,6 @@
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gibvs8/d_paper_explained_group_normalization/)                |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/datasets/comments/gi6282/datagene_a_python_package_to_identify_how_similar/)           |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gdt35p/d_unsupervised_real_image_superresolution_via/)        |      |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gdbz0r/p_400_nlp_datasets_found_here/)                        |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gaqm5z/d_list_of_text_classification_tips_and_tricks/)        |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/ga19q8/r_image_augmentation_is_all_you_need_regularizing/)    |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/g8s1af/r_clova_ai_researchs_stargan_v2_cvpr_2020_code/)       |      |                   |
@@ -89,9 +106,7 @@
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/es08fz/skperopt_making_hyperparameter_searching_with/)        |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/er3ng8/d_how_to_save_my_fathers_voice/)                       |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/elt7p6/n_henry_ai_labs_on_youtube/)                           |      |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/el9cq9/r_adversarial_lipschitz_regularization/)               |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/egyp7w/d_what_is_your_favorite_opensource_project_of/)        |      |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eh80jp/d_gelu_better_than_relu/)                              |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eftv1o/d_what_frustrates_you_about_ml_tools_libraries/)       |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eft2bs/resnet_and_mnist_r/)                                   |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/ef7cbb/d_yann_lecun_some_folks_still_seem_confused_about/)    |      |                   |
@@ -101,11 +116,8 @@
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eeirql/d_i_want_to_optimize_my_model_based_on_two/)           |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eefml7/p_implementing_ambient_sound_provides_supervision/)    |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eea88q/d_relationship_between_learning_rate_and_gradient/)    |      |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/ee5fab/mixnmatch_multifactor_disentanglement_and/)            |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/ee2khy/d_monocular_depth_perception_of_autonomous/)           |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/e9rwj9/d_what_do_you_think_were_the_most_important_open/)     |      |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)              |      |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/e4g50h/r_filter_response_normalization_layer_eliminating/)    |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/dwbcxy/n_awesome_ai_research_and_papers_reviewed_on/)        |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/dy23rm/d_many_papers_dont_do_hyperparameter_search_on/)       |      |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/dzmssp/d_why_does_hierarchical_bayesian_regression_work/)     |      |                   |

@@ -15,7 +15,6 @@
 ## Various
 |    Date    | Source                                                                                                                                                                |               Detailed note               | Notes / conlusion |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------|
-| 2019/12/29 | [Open source promising project](https://www.reddit.com/r/MachineLearning/comments/egyp7w/d_what_is_your_favorite_opensource_project_of/)                             |[here](./notes/.md)                        |                   |
 | 2022/01/05 | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)                                                    |[here](./notes/DL_and_gaming.md)           |                   |
 | 2021/10/01 | [Limits of CNNs progresses](https://www.reddit.com/r/MachineLearning/comments/pyti87/d_have_we_reached_some_limit_in_the_advancement/)                  |[here](./notes/.md)                        |                   |
 | 2021/04/13 | [Tesla autopilot](https://www.reddit.com/r/MachineLearning/comments/mq3led/d_how_is_tesla_autopilot_trained/)                                              |[here](./notes/.md)                        |                   |
@@ -37,6 +36,8 @@
 | 2020/01/08 | [Henri AI youtube channel](https://www.reddit.com/r/MachineLearning/comments/elt7p6/n_henry_ai_labs_on_youtube/)                                           |[here](./notes/.md)                        |                   |
 | 2019/12/26 | [AI engineers frustration](https://www.reddit.com/r/MachineLearning/comments/eftv1o/d_what_frustrates_you_about_ml_tools_libraries/)                                      |[here](./notes/.md)                        |                   |
 | 2019/12/25 | [DL definition by Lecun](https://www.reddit.com/r/MachineLearning/comments/ef7cbb/d_yann_lecun_some_folks_still_seem_confused_about/)                                 |[here](./notes/.md)                        |                   |
+| 2019/12/29 | [Open source project 2019 v0](https://www.reddit.com/r/MachineLearning/comments/egyp7w/d_what_is_your_favorite_opensource_project_of/)                             |[here](./notes/.md)                        |                   |
+| 2019/12/13 | [Open source projects 2019 v1](https://www.reddit.com/r/MachineLearning/comments/e9rwj9/d_what_do_you_think_were_the_most_important_open/)     |[here](./notes/.md)                        |                   |
 | 2019/11/18 | [Hyperparameters optimisation in research papers](https://www.reddit.com/r/MachineLearning/comments/dy23rm/d_many_papers_dont_do_hyperparameter_search_on/)           |[here](./notes/.md)                        |                   |
 
 
@@ -55,6 +56,7 @@
 | 2021/01/17 | [Notes digitization](https://www.reddit.com/r/MachineLearning/comments/kykhc1/p_digitize_your_notes/)                                                      |[here](./notes/.md)                        |                   |
 | 2020/08/28 | [Image to 3D pose and mesh](https://www.reddit.com/r/MachineLearning/comments/iej5cb/news_heres_a_new_paper_announced_in_the_eccv2020/)                               |[here](./notes/.md)                        |                   |
 | 2020/07/08 | [SCAN - Classify without labels](https://www.reddit.com/r/MachineLearning/comments/hni969/research_official_pytorch_implementation_for_scan/)                         |[here](./notes/.md)                        |                   |
+| 2020/04/27 | [StarGAN v2](https://www.reddit.com/r/MachineLearning/comments/g8s1af/r_clova_ai_researchs_stargan_v2_cvpr_2020_code/)       |[here](./notes/.md)                        |                   |
 | 2020/04/18 | [GAN in CV](https://www.reddit.com/r/MachineLearning/comments/g3lh3n/d_gans_in_computer_vision_an_article_review/)                                         |[here](./notes/.md)                        |                   |
 | 2019/12/22 | [Monocular depth](https://www.reddit.com/r/MachineLearning/comments/ee2khy/d_monocular_depth_perception_of_autonomous/)                                               |[here](./notes/.md)                        |                   |
 
@@ -65,6 +67,7 @@
 | 2020/08/19 | [Sentiment analysis in 2020](https://www.reddit.com/r/MachineLearning/comments/ic5nzp/d_what_is_the_best_way_for_sentiment_analysis_in/)                              |[here](./notes/.md)                        |                   |
 | 2020/06/03 | [NLP colab](https://www.reddit.com/r/MachineLearning/comments/gvsh51/p_181_nlp_colab_notebooks_found_here/)                                                           |[here](./notes/.md)                        |                   |
 | 2020/04/30 | [Text classification tips and tricks](https://www.reddit.com/r/MachineLearning/comments/gaqm5z/d_list_of_text_classification_tips_and_tricks/)        |[here](./notes/.md)                        |                   |
+| 2019/11/27 | [Single Headed Attention RNN](https://www.reddit.com/r/MachineLearning/comments/e2ch4t/r_single_headed_attention_rnn_stop_thinking_with/)     |[here](./notes/.md)                        |                   |
 
 
 ## Tabular
@@ -108,6 +111,7 @@
 | 2019/12/24 | [Autoencoder symmetry](https://www.reddit.com/r/MachineLearning/comments/ef1xe8/d_should_autoencoders_really_be_symmetric/)                                |[here](./notes/.md)                        |                   |
 | 2019/12/23 | [lr / gradient clipping](https://www.reddit.com/r/MachineLearning/comments/eea88q/d_relationship_between_learning_rate_and_gradient/)                                 |[here](./notes/.md)                        |                   |
 | 2019/12/01 | [New basic operators](https://www.reddit.com/r/MachineLearning/comments/e3ykhf/d_nas_has_anyone_tried_yet_to_search_for_new/)                                         |[here](./notes/.md)                        |                   |
+| 2019/11/27 | [Bacth size impact on generalization](https://www.reddit.com/r/MachineLearning/comments/e2afb4/d_what_is_the_latest_consensus_on_the_effect_of/)      |[here](./notes/.md)                        |                   |
 
 
 ## Publications / blogs
@@ -124,7 +128,7 @@
 | 2021/04/24 | [BEV object path prediction](https://www.reddit.com/r/MachineLearning/comments/mx1t3v/r_fiery_future_instance_prediction_in_birdseye/)                                |[here](./notes/.md)                        |                   |
 | 2021/01/21 | [Community best research papers](https://www.reddit.com/r/MachineLearning/comments/l1gyp6/r_what_are_some_of_the_best_research_papers_to/)                            |[here](./notes/.md)                        |                   |
 | 2020/12/07 | [ADAM as best optimizer](https://www.reddit.com/r/MachineLearning/comments/k7yn1k/d_neural_networks_maybe_evolved_to_make_adam_the/)                                  |[here](./notes/.md)                        |                   |
-| 2020/06/09 | [Unsupervised translation of programming languages](https://www.reddit.com/r/MachineLearning/comments/gdt35p/d_unsupervised_real_image_superresolution_via/)        |[here](./notes/.md)                        |                   |
+| 2020/06/09 | [Unsupervised translation of programming languages](https://www.reddit.com/r/MachineLearning/comments/gz9pcx/r_unsupervised_translation_of_programming/)              |[here](./notes/.md)                        |                   |
 | 2020/05/12 | [Group normalization](https://www.reddit.com/r/MachineLearning/comments/gibvs8/d_paper_explained_group_normalization/)                                                |[here](./notes/.md)                        |                   |
 | 2020/01/07 | [Lipschitz regularization vs gradient penalty](https://www.reddit.com/r/MachineLearning/comments/el9cq9/r_adversarial_lipschitz_regularization/)                      |[here](./notes/.md)                        |                   |
 | 2019/12/22 | [Conditional Image Generation](https://www.reddit.com/r/MachineLearning/comments/ee5fab/mixnmatch_multifactor_disentanglement_and/)                                   |[here](./notes/.md)                        |                   |
@@ -138,17 +142,13 @@
 |    Date    | Source                                                                                                                                                     |               Detailed note               | Notes / conlusion |
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------|
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gz1gpg/p_selfsupervised_3d_keypoint_learning_for/)            |[here](./notes/.md)                        |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gz9pcx/r_unsupervised_translation_of_programming/)            |[here](./notes/.md)                        |                   |
+| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gdt35p/d_unsupervised_real_image_superresolution_via/
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/gpmbpl/projectreinforcement_learning_using_dqn_qlearning/)    |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/ga19q8/r_image_augmentation_is_all_you_need_regularizing/)    |[here](./notes/.md)                        |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/g8s1af/r_clova_ai_researchs_stargan_v2_cvpr_2020_code/)       |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/g7tzxd/p_training_twoontwo_soccer_agents_using_selfplay/)     |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/f9uryf/r_polygen_an_autoregressive_generative_model_of/)      |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/f38hxi/d_how_does_tiktok_manage_to_optimize_the_for_you/)     |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eelbd6/d_objective_masked_language_model_vs_autoencoding/)    |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eeirql/d_i_want_to_optimize_my_model_based_on_two/)           |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/eefml7/p_implementing_ambient_sound_provides_supervision/)    |[here](./notes/.md)                        |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/e9rwj9/d_what_do_you_think_were_the_most_important_open/)     |[here](./notes/.md)                        |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/e2afb4/d_what_is_the_latest_consensus_on_the_effect_of/)      |[here](./notes/.md)                        |                   |
-| 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/e2ch4t/r_single_headed_attention_rnn_stop_thinking_with/)     |[here](./notes/.md)                        |                   |
 | 2020/01/01 | [test](https://www.reddit.com/r/MachineLearning/comments/e3ctv5/d_helpquestion_about_using_vector_projection/)         |[here](./notes/.md)                        |                   |

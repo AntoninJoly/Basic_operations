@@ -20,6 +20,6 @@ None
 - Can be applied to context understanding for image data.
 - Benefits over well established methods is not clearly explained.
 - Might improve the performance of a system as the data dimension is clearly reduced.
-- Not so much information. More details on graph data at 
+- Not so much information. More details on graph data at  
 https://distill.pub/2021/gnn-intro/
 - Applications might be wide but need to investigate some more content.

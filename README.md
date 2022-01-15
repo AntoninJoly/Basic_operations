@@ -12,7 +12,6 @@
 
 # Notes about AI in general
 
-
 |   | Source                                                                                                                 | Note |
 |---|------------------------------------------------------------------------------------------------------------------------|------|
 |   | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)              |      |
@@ -115,3 +114,5 @@
 |   | [test](https://www.reddit.com/r/MachineLearning/comments/e3ykhf/d_nas_has_anyone_tried_yet_to_search_for_new/)         |      |
 |   | [test](https://www.reddit.com/r/MachineLearning/comments/e3fwat/d_ml_paper_notes_my_notes_of_various_ml_research/)     |      |
 |   |                                                                                                                        |      |
+|   |                                                                                                                        |      |
+

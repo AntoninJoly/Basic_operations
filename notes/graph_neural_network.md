@@ -2,8 +2,11 @@
 https://www.reddit.com/r/learnmachinelearning/comments/rqukh3/what_are_graph_neural_networks/
 
 # Post header 📝
-What are Graph Neural Networks?
+What are Graph Neural Networks?  
 Link to https://sigopt.com/blog/overview-of-graph-neural-networks/
+
+Additional content:  
+https://www.youtube.com/watch?v=GXhBEj1ZtE8&ab_channel=AlexFoo
 
 # Comments section 👂🏻
 None
@@ -13,6 +16,7 @@ None
 - Grah data are a data representation that has vertex (nodes), edges (link) and global feature.
 - Relational representation of data with geometric relational position.
 - Image / text / molecule as graph data.
+- Graph data do not work very goo on neural networkd as they reuqired more structured data type.
 
 # Thoughts 💭
 - Might be useful for NLP application as the geometric position of word in a sentence influence its semantic meaning.

@@ -12,10 +12,10 @@ Youtube video share about how to use AI in video games:
 
 # Comments section
 
-I imagine AI at least serving as a tool expanding the efficiency/reach of indie/solo devs. What today takes a whole studio might become feasible for a single person.
+<!--I imagine AI at least serving as a tool expanding the efficiency/reach of indie/solo devs. What today takes a whole studio might become feasible for a single person.-->
 
-i envision a game console with hardware level NN optimizations for photorealistic gaming within the decade. artists on the development side will have tools which are essentially just adjusting parameters of built in models. and background environments need not even be fully specified, instead they are generated from keywords and a seed... perhaps with a mask to be applied over a randomly generated map to limit the characters pathing.
-another fantastic invention i expect to see many years afterwards is dynamic music which matches beat and tone to what is currently happening in the game.
+<!--I envision a game console with hardware level NN optimizations for photorealistic gaming within the decade. artists on the development side will have tools which are essentially just adjusting parameters of built in models. and background environments need not even be fully specified, instead they are generated from keywords and a seed... perhaps with a mask to be applied over a randomly generated map to limit the characters pathing.
+another fantastic invention i expect to see many years afterwards is dynamic music which matches beat and tone to what is currently happening in the game.-->
 
 # Notes
 

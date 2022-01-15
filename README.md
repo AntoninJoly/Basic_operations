@@ -12,10 +12,11 @@
 
 # Notes about AI in general
 
+### Technical
 
 |    Date    | Source                                                                                                                                                     |             Detailed note              | Notes / conlusion |
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------------|
-| 2022/01/05 | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)                                         |  [here](./notes/DL_and_gaming.txt)     |                   |
+| 2022/01/05 | [DL and gaming](https://www.reddit.com/r/MachineLearning/comments/rw50hg/d_deep_learning_is_the_future_of_gaming/)                                         |  [here](./notes/DL_and_gaming.md)     |                   |
 | 2021/12/29 | [Graph neural network](https://www.reddit.com/r/learnmachinelearning/comments/rqukh3/what_are_graph_neural_networks/)                                      |                                        |                   |
 | 2021/12/28 | [New AI approaches](https://www.reddit.com/r/MachineLearning/comments/rq6uih/d_other_ai_methodsalgorithms_except_deep_neural/)                             |                                        |                   |
 | 2021/12/18 | [PowerBI in jupyter](https://www.reddit.com/r/MachineLearning/comments/rimqij/d_how_to_embed_powerbi_report_in_jupyternotebook/)                           |                                        |                   |

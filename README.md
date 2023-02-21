@@ -1,14 +1,45 @@
+# Code
+```
+# Ignore warnig python
+import warnings
+warnings.filterwarnings("ignore")
+
+# Matplotlib / seaborn background fix
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.set(font_scale=1)
+sns.set_style("white")
+sns.set_style("ticks")
+
+# List of files in subfolder
+import sys
+import os
+
+dir_data = ''
+list_path = []
+accepted = ['.jpeg','.png']
+
+for root, dirs, files in tqdm(os.walk(dir_data)):
+    for file in files:
+        if os.path.splitext(file)[1].lower() in accepted:
+            list_path.append(os.path.join(root, file))
+```
+
 # Notebooks -  Various basic operations in notebook format
 - [Hyperparameters optimization - gridsearch & bayesian using hyperopt and sklearn](./notebooks/hyperparameter_optimization.ipynb)
 - [XGB multiple output](./notebooks/multiple_output_xgboost.ipynb)
 - [Image encode/decode base64](./notebooks/base_64_image_conversion.ipynb)
-- [Video creation](./notebooks/random_noise_video.ipynb)
+- [Video creation (random noise)](./notebooks/random_noise_video.ipynb)
 - [Random color generation](./notebooks/random_color.ipynb)
 - [DBSCAN / kmean clustering (elbow/silhouette)](./notebooks/dbscan_kmeans_clustering.ipynb)
 - [Optimal skew processing](./notebooks/unskew_data_distribution.ipynb)
-
-# Scripts -  Various basic operations in script format
-- tdb
+- [Over sampling, under sampling](./notebooks/undersampling_oversampling.ipynb)
+- [Logging](./notebooks/logging.ipynb)
+- [EDA & CFA](./notebooks/eda_cfa.ipynb)
+- [Fastest strin count in list benchmark](./notebooks/benchmark_string_count.ipynb)
+- [Webcam stream acquisition](./notebooks/capture_webcam_notebook.ipynb)
+- [Keras models to tflite](./notebooks/keras_to_tflite.ipynb)
 
 # Notes about AI in general
 

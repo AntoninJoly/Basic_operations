@@ -1,33 +1,23 @@
 # Code
 ```
-# Ignore warnig python
+# Ignore warning python
 import warnings
 warnings.filterwarnings("ignore")
 
 # Scroll dataframe
-pd.set_option("display.max_rows", None)
-pd.set_option("display.max_columns", None)
+pd.set_option("display.max_rows", None, "display.max_columns", None)
 
 # Matplotlib / seaborn background fix
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-sns.set(font_scale=1)
-sns.set_style("white")
-sns.set_style("ticks")
+sns.set(style="white", font_scale=1.0, font="MS Gothic")
 
 # List of files in subfolder
-import sys
-import os
-
-dir_data = ''
-list_path = []
-accepted = ['.jpeg','.png']
-
-for root, dirs, files in tqdm(os.walk(dir_data)):
+list_path, , accepted = '', [], ['.jpeg','.png']
+for root, dirs, files in tqdm(os.walk(data_dir)):
     for file in files:
         if os.path.splitext(file)[1].lower() in accepted:
             list_path.append(os.path.join(root, file))
+
+
 ```
 
 # Notebooks -  Various basic operations in notebook format

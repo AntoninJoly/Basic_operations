@@ -16,6 +16,7 @@ for root, dirs, files in tqdm(os.walk(data_dir)):
     for file in files:
         if os.path.splitext(file)[1].lower() in accepted:
             list_path.append(os.path.join(root, file))
+
 # Sort list of tuple
 lst = sorted(lst, key=lambda x: x[1])
 ```
